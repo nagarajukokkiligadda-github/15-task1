@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: brown;
+    padding: 30px;
+    color: aliceblue;
+    font-size: xx-large;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+h2{
+    background-color: blue;
+    padding: 10px;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+    position: sticky;
+    top: 80px;
+}
+p{
+    font-size: larger;
+    text-align: justify;
+}
+body{
+    height: 1000px;
+}
